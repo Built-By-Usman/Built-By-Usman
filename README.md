@@ -14,9 +14,8 @@
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/your-handle)  
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/your-handle)  
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link](https://www.linkedin.com/in/devmuhammadosman?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
+[![Tiktok](https://www.tiktok.com/@dev_muhammad_osman?_t=ZS-8yzF43vhKxW&_r=1)  
 
 ---
 
@@ -30,10 +29,10 @@
 ---
 
 ### 📊 GitHub Stats
-![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Built-By-Usman&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Built-By-Usman&layout=compact&theme=radical)  
 
 ---
 
-⭐️ From [Usman](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ From [Usman](https://github.com/Built-By-Usman)
