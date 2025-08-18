@@ -14,9 +14,8 @@
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link](https://www.linkedin.com/in/devmuhammadosman?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
-[![Tiktok](https://www.tiktok.com/@dev_muhammad_osman?_t=ZS-8yzF43vhKxW&_r=1)  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmuhammadosman?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![TikTok](https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dev_muhammad_osman?_t=ZS-8yzF43vhKxW&_r=1)
 ---
 
 ### ⚒️ Languages and Tools
