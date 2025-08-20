@@ -1,55 +1,53 @@
 # 👋 Hi, I'm Muhammad Usman  
 *Mobile & Backend Developer | Kotlin | Flutter | Firebase*  
 
-🚀 Passionate about building modern, scalable apps  
-💡 Love solving real-world problems with clean code & Firebase integrations  
+🚀 Passionate about building **modern, scalable apps**  
+💡 Love solving **real-world problems** with clean code & Firebase integrations  
 
 ---
 
 ### 👨‍💻 About Me  
-- 🌱 Currently learning **Backend Development (Ktor, Node.js)**  
-- 💬 Ask me about **Kotlin, Flutter, Firebase, APIs**  
+- 🌱 Currently exploring **Backend Development** (Ktor, Node.js)  
+- 💬 Ask me about **Kotlin, Flutter, Firebase, REST APIs**  
 - 📫 Reach me at: **builtbyusman@gmail.com**  
 - 🌍 Based in: **Pakistan | UTC+05:00**  
 
 ---
 
 ### 🌐 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Built-By-Usman)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmuhammadosman?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Built-By-Usman)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmuhammadosman)  
 [![TikTok](https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dev_muhammad_osman?_t=ZS-8yzF43vhKxW&_r=1)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)  
 
 ---
 
-### ⚒️ Languages and Tools  
+### ⚒️ Languages & Tools  
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
 ---
 
 ### 🚀 Featured Projects  
 
-### 🚀 Featured Projects  
-
 - 📱 [Chatter](https://github.com/Built-By-Usman/Chatter) – Real-time chat application built with **Kotlin**, **MVVM**, and **Firebase**. Features user authentication, messaging, and clean beginner-friendly UI.  
 
-- 🔕 [Silent Salah](https://github.com/Built-By-Usman/Silent_Salah) – An offline Islamic utility app that automatically switches the phone to **Do Not Disturb** mode during prayer times set by the user.  
+- 🔕 [Silent Salah](https://github.com/Built-By-Usman/Silent_Salah) – Offline Islamic utility app that auto-enables **Do Not Disturb** during prayer times set by the user.  
 
-- 👩‍🏫 [Attendify Teacher](https://github.com/Built-By-Usman/Attendify_Teacher) – Teacher-focused attendance management app with **Firebase** backend. Supports classes, subjects, students, attendance tracking, Excel import/export, and QR-based attendance.  
+- 👩‍🏫 [Attendify Teacher](https://github.com/Built-By-Usman/Attendify_Teacher) – Teacher-focused attendance management app with **Firebase** backend. Supports classes, subjects, students, Excel import/export & QR-based attendance.  
 
-- 🎓 [Attendify Student](https://github.com/Built-By-Usman/Attendify_Student) – Companion app for students. Allows login, scanning teacher-generated QR codes to mark attendance, and viewing attendance records for enrolled subjects.  
+- 🎓 [Attendify Student](https://github.com/Built-By-Usman/Attendify_Student) – Companion app for students. Scan teacher-generated QR codes to mark attendance and view records for enrolled subjects.  
 
-- 🤖 [Smart Parents](https://github.com/Built-By-Usman/Smart_Parents) – A **Flutter** app integrated with **Google Gemini AI**. Parents can ask AI questions related to their children and get smart responses. Lightweight, clean, and database-free.  
+- 🤖 [Smart Parents](https://github.com/Built-By-Usman/Smart_Parents) – A **Flutter** app integrated with **Google Gemini AI**. Parents can ask AI questions about their children & get smart responses. Lightweight, clean, and database-free.  
 
-- 📖 [Furqan](https://github.com/Built-By-Usman/Furqan) – A **Flutter** Islamic app offering offline **Quran**, **Surah Yaseen**, and **100 Duas**, along with integrated **Gemini AI** that provides answers like a Muslim scholar.  
+- 📖 [Furqan](https://github.com/Built-By-Usman/Furqan) – Islamic app built with **Flutter**. Includes offline **Quran**, **Surah Yaseen**, **100 Duas**, plus **Gemini AI** that answers like a Muslim scholar.  
 
-- 🖼️ [Pix Verse](https://github.com/Built-By-Usman/Pix_Verse) – A **Flutter + Supabase** app that showcases trending AI-generated images. Users can view images, explore prompts, and copy them for inspiration.    
- 
+- 🖼️ [Pix Verse](https://github.com/Built-By-Usman/Pix_Verse) – A **Flutter + Supabase** app showcasing trending AI-generated images. Users can view, explore prompts, and copy them for inspiration.  
 
 ---
 
@@ -61,7 +59,7 @@
 ---
 
 ### ⚡ Fun Fact  
-I debug code faster with coffee ☕ and lo-fi beats 🎶  
+I debug code faster with **coffee ☕ + lo-fi beats 🎶**  
 
 ---
 
