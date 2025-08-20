@@ -34,7 +34,7 @@
 
 ### 🚀 Featured Projects  
 
-- 📱 [Chatter](https://github.com/Chatter) – Real-time chat application built with **Kotlin**, **MVVM**, and **Firebase**. Features user authentication, messaging, and clean beginner-friendly UI.  
+- 📱 [Chatter](https://github.com/Built-By-Usman/Chatter) – Real-time chat application built with **Kotlin**, **MVVM**, and **Firebase**. Features user authentication, messaging, and clean beginner-friendly UI.  
 
 - 🔕 [Silent Salah](https://github.com/Silent_Salah) – An offline Islamic utility app that automatically switches the phone to **Do Not Disturb** mode during prayer times set by the user.  
 
