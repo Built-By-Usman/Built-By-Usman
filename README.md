@@ -17,7 +17,7 @@
 ### 🌐 Connect with Me  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Built-By-Usman)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmuhammadosman)  
-[![TikTok](https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dev_muhammad_osman?_t=ZS-8yzF43vhKxW&_r=1)  
+[![TikTok](https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white)]([https://www.tiktok.com/@dev_muhammad_osman?_t=ZS-8yzF43vhKxW&_r=1](https://www.tiktok.com/@built_by_usman?_t=ZS-8yzF43vhKxW&_r=1))  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)  
 
