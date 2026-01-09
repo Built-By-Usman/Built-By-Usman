@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Muhammad Usman  
-*Mobile & Backend Developer | Kotlin | Flutter | Firebase*  
+*Mobile & Backend Developer | Flutter | FastApi | Firebase  
 
 🚀 Passionate about building **modern, scalable apps**  
-💡 Love solving **real-world problems** with clean code & Firebase integrations  
+💡 Love solving **real-world problems** with clean code , custom backend & Firebase integrations  
 
 ---
 
 ### 👨‍💻 About Me  
-- 🌱 Currently exploring **Backend Development** (Ktor, Node.js)  
-- 💬 Ask me about **Kotlin, Flutter, Firebase, REST APIs**  
+- 🌱 Currently exploring **Backend Development** (FastApi)  
+- 💬 Ask me about **Flutter, FastApi ,Firebase**  
 - 📫 Reach me at: **builtbyusman@gmail.com**  
 - 🌍 Based in: **Pakistan | UTC+05:00**  
 
